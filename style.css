@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+}
+.All-Boxes {
+
+  display: flex;
+  text-align: center;
+  margin-top: 0;
+
+}
+h1{
+
+  margin-top: 0;
+
+}
+
+.First-Box {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+
+
+}
+
+.Second-Box {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+
+}
+
+.Third-Box {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+
+}
